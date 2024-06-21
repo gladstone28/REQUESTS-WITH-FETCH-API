@@ -38,4 +38,4 @@ A second .then() method will run after the previous .then() method has finished 
 
 In the next exercise, we will apply what we have learned to making a GET request using fetch() and .then(). Move on to the next exercise when you’re ready!
 
-![](./fetch GET transparent.svg)
+![](./fetch-GETtransparent.svg)
